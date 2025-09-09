@@ -57,9 +57,19 @@ select {
   opacity: 0.7;
 }
 
+.link {
+  text-align: center;
+  font-size: 15px;
+  position: relative;
+  bottom: 90px;
+}
+
+
 footer {
   text-align: center;
   color: white;
   font-size: 18px;
+  position: relative;
+  bottom: 60px;
 
 }
